@@ -1,2 +1,3 @@
 # image_background_remover
-This is an implementation of a pretrained model for developing applications of change the background of images
+
+This repo is the codebase for an image background changer API based on implementation of a pretrained deep learning model (DeepLabv3+).
